@@ -46,7 +46,7 @@ int main()
     averageGrade = (double)(grade1+grade2+grade3+grade4+grade5)/5;
 
     system("cls");
-    printf("***************\n===============")
+    printf("***************\n===============");
     printf("%s",University);
     printf("\n%s",Faculty);
     printf("\n%s",GroupName);
